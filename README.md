@@ -50,7 +50,7 @@ xo-game/
 - No additional installations or dependencies are required.
 
 ## Screenshots
-![Game Screenshot](#) *(Add a screenshot link or image here)*
+![https://cdn.discordapp.com/attachments/1206288294741151775/1323300425478312009/image.png?ex=6774030f&is=6772b18f&hm=2f88d1d6c678c324c52c59251d9d79ebea41e21accdcec9f211030cf7a106f91&](#)
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the game, please:
