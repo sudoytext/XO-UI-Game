@@ -10,9 +10,6 @@ This is a fully functional Tic-Tac-Toe (XO) game implemented using HTML, CSS, an
 - **Reset Functionality**: Easy-to-use reset button to start a new game.
 - **Optimized for Browsers**: Runs seamlessly in modern web browsers.
 
-## Demo
-[Live Demo](#) (Add your live URL here if hosted)
-
 ## Installation
 To set up the game locally, follow these steps:
 
